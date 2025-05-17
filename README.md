@@ -1,0 +1,2 @@
+# .github
+pypbx-core
